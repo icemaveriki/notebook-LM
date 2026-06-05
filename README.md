@@ -34,20 +34,28 @@ Aqui está o registro das interações com a IA, demonstrando os testes realizad
 Criação de resumos de audio:
 *   [**Prompt usado:** Gere um Podcast co IA baseado em suas fontes*   
 *   **Resultado da IA:** https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/daf2afbd-59a8-43ff-8149-26c375c16a99?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
-*   **Problema/Dificuldade:** [A resposta foi muito supreendente! Ela foi perfeita]
+*   **Problema/Dificuldade:** A resposta foi muito surpreendente! Ela foi perfeita
 
 
-### Prompt Refinado (Tentativa 2 - Solução)
-*   **Prompt usado:** "[Escreva como você melhorou a pergunta, ex: usando contexto, pedindo formato de lista, etc.]"
-*   **Resultado da IA:** [Como a resposta melhorou e por que ficou ideal]
-*   **Aprendizado:** [O que você aprendeu sobre como guiar a IA nesse tema]
+Criação de video:
+*   **Prompt usado:** crie apresentações em video baseado em suas fontes
+*   **Resultado da IA:**(https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/6b2e8f42-bb35-4f42-b4f2-5596ac28f6fa?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+*   **Aprendizado:** Aprendi que fazer as perguntas certas... faz sucesso.
 
 ---
 
 ## 📖 Miniguia de Estudo (Entrega Final)
 
 ### 📝 Resumos Estruturados
-[Cole aqui o resumo principal do tema que o NotebookLM ajudou você a consolidar. Use tópicos para facilitar a leitura.]
+1-Podcasts:(https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/0fa7ce2c-7ef1-41d5-a6c6-3137cd074d04?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+
+2-Mapas Kali:https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/be615e7a-dd3c-448a-9398-6c30625aa039?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+3- Flash cards : https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/5cb27783-9a4b-4808-a4e5-d5491ccc169b?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+4- Kali Wuiz :https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/a9d8cda1-0173-4897-86f8-ab41fff8054b?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+5- Guia de silstema de segurança:https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/cf97c3f4-e8bd-4031-b7d0-57a0f6ebdb29?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ### 📕 Glossário de Conceitos
 *   **[Termo Técnico 1]:** [Definição simples e direta].
