@@ -31,10 +31,10 @@ Para alimentar o NotebookLM e garantir respostas precisas e sem alucinações, f
 
 Aqui está o registro das interações com a IA, demonstrando os testes realizados para extrair o melhor conhecimento das fontes.
 
-### Prompt Inicial (Tentativa 1)
-*   **Prompt usado:** "[Escreva exatamente como você perguntou primeiro]"
-*   **Resultado da IA:** [O que a IA respondeu]
-*   **Problema/Dificuldade:** [A resposta foi muito rasa? Ela ignorou alguma parte importante da fonte?]
+Criação de resumos de audio:
+*   [**Prompt usado:** Gere um Podcast co IA baseado em suas fontes*   
+*   **Resultado da IA:** https://notebooklm.google.com/notebook/7ea89d07-0b68-4d30-b478-a5fedbbccbb3/artifact/daf2afbd-59a8-43ff-8149-26c375c16a99?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+*   **Problema/Dificuldade:** [A resposta foi muito supreendente! Ela foi perfeita]
 
 
 ### Prompt Refinado (Tentativa 2 - Solução)
